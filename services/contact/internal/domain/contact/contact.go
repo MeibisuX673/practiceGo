@@ -4,7 +4,7 @@ import (
 
 	"time"
 	"github.com/MeibisuX673/practiceGo/pkg/type/email"
-	
+
 )
 
 type Contact struct{
